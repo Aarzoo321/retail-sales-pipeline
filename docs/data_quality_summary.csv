@@ -1,0 +1,12 @@
+metric,value
+total_rows,1067371
+total_columns,9
+duplicate_rows,12133
+negative_quantity_rows,22950
+zero_quantity_rows,0
+zero_or_negative_price_rows,6207
+cancelled_invoice_rows,19494
+missing_customer_id,243007
+missing_description,4382
+earliest_date,2009-12-01 07:45:00
+latest_date,2011-12-09 12:50:00
